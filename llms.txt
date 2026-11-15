@@ -1,0 +1,31 @@
+# Steve Yonga
+
+> QA Automation Engineer based in Houston, TX, with 10 years of experience in manual, API, and UI test automation across e-commerce, life insurance, and mortgage finance. U.S. citizen with an active Public Trust clearance. Most recently the primary QA at WebstaurantStore (Jan 2023 – Sep 2026), leading day-to-day testing for a team of three QA engineers.
+
+## Experience
+
+- WebstaurantStore LLC (Jan 2023 – Sep 2026): Quality Assurance Automation Engineer. Primary QA on a small team; led day-to-day testing for three QA teammates, owned the automation suite, and cut regression time by 30% by pushing repeatable checks to the API layer.
+- Legal & General America / Banner Life (Jun 2018 – Dec 2022): QA Automation Engineer for life insurance platforms, including Section 508 accessibility validation.
+- Freddie Mac (Sep 2016 – Jun 2018): QA Automation Engineer in mortgage finance.
+
+## Skills
+
+- Test automation: Playwright, Selenium WebDriver, WebdriverIO, Cypress
+- Languages: TypeScript / JavaScript, Python, Java, C#
+- API testing: REST Assured, Postman
+- Performance testing: Apache JMeter, k6, Gatling
+- CI/CD and cloud: Azure DevOps, GitHub Actions, Jenkins, Docker, Microsoft Azure
+- Data: SQL, Snowflake, MongoDB
+- Mobile and accessibility: BrowserStack mobile testing (manual and automation), Section 508 validation with NVDA
+
+## Approach
+
+- Validate UI, API, and database together; the costly defects are the ones where the screen looks right and the data underneath is wrong.
+- Flaky tests are quarantined, ticketed, and owned, never hidden behind silent retries.
+- AI tools (ChatGPT, GitHub Copilot) are used for scaffolding, edge cases, and test data, with every output human-reviewed.
+
+## Links
+
+- [GitHub profile](https://github.com/steveyonga11)
+- [LinkedIn](https://www.linkedin.com/in/steve-yonga)
+- [pam-security-test-lab: Playwright and TypeScript API testing lab](https://github.com/steveyonga11/pam-security-test-lab)
